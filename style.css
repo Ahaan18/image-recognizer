@@ -1,0 +1,18 @@
+.hello{
+    width: 80%;
+    font-size: 22px;
+}
+.b, #object, #accuracy{
+  color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#camera{
+    border: 2px;
+    border-color: white;
+    border-style:dashed;
+    width: 350px;
+    height: 350px;
+}
